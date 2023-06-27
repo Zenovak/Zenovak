@@ -2,7 +2,7 @@
 Please email me, officially, for my CV
 
 # Verification of ownership
-If you receive a copy a CV pointing here, you can verify me using the key provided inside the document.
+If you receive a CV pointing here, you can verify me using the key provided inside the document.
 You can use a tool such as https://www.devglan.com/online-tools/rsa-encryption-decryption to decrypt the following:
 
 ```
